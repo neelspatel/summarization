@@ -1,0 +1,10 @@
+==Summarization Software
+
+An intuitive and lightweight summarization tool.
+
+==Summary
+I've always been interested in summarization and natural language processing, but NLP summarization algorithms can get pretty complex and heavy. My goal was to create a simple, intuitive, and lightweight algorithm that could summarize text while providing ranked "importance scores" of each sentence. 
+
+This algorithm was based on work by my younger brother, Nikhil Patel. It uses an intuitive method of ranking sentences based on the relative importance or frequency of each word inside the sentence. It is significantly less complex than most summarization algorithms, but Nikhil's research shows that reader comprehension of the summarized output is sufficiently high. 
+
+Since this algorithm is very lightweight, it opens applications for "summarization on the fly", and dynamically summarizing text based on scrollbar positions. I'm working on an app that combines OCR and summarization to make reading... easier.
